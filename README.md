@@ -9,7 +9,7 @@ git clone https://github.com/jasman0209/Image-Caption-Generator.git
 and press enter
  
  
-###pre-requisites
+### pre-requisites
 The libraries required for testing the model must be preinstalled <br>
 
   Keras
