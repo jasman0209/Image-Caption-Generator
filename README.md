@@ -10,9 +10,10 @@ and press enter
  
  
 ###pre-requisites
-The libraries required for testing the model must be preinstalled
+The libraries required for testing the model must be preinstalled <br>
+
   Keras
-  Pickel
-  Tensorflow
-  Matplotlib
-  Numpy
+  <br>Pickel
+  <br>Tensorflow
+  <br>Matplotlib
+  <br>Numpy
